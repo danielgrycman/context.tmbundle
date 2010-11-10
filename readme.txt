@@ -45,16 +45,17 @@ Make sure you change the directory above according to your settings. If unsure t
 == Known limitations/bugs ==
 
 
-Please contact me at patrick <at> gundla.ch for suggestions/comments/bug reports/...
+Please contact me at danielgrycman <at> me.com for suggestions/comments/bug reports/...
 
 == Acknowledgments ==
 
 The metafun grammar is taken from Charilaos Skiadas' metapost bundle and used with permission. Thanks for that!
+Thanks to Patrick for the works on this bundle so far!
 
 
 == Resources ==
 
 Homepage:   http://wiki.contextgarden.net/ConTeXt_Bundle_for_TextMate<br/>
 Download:   http://dl.contextgarden.net/support/<br/>
-Sourcecode: http://github.com/pgundlach/context.tmbundle
-Contact:    patrick <at> gundla.ch<br/>
+Sourcecode: http://github.com/danielgrycman/context.tmbundle
+Contact:    danielgrycman <at> me.com<br/>
